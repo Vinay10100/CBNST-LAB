@@ -8,3 +8,4 @@
   - [Gauss elimination](./codes/Gauss_elimination.c)
   - [Gauss jordan](./codes/Gauss_jordan.c)
   - [Gauss seidel](./codes/Gauss_Seidal.c)
+  - [Trapezoidal_Rule](./codes/Trapezoidal_Rule.c)
