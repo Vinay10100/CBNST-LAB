@@ -13,7 +13,7 @@
   - [Newtons Backward Interpolation](./codes/newton_backward_difference.c)
   - [Simpson 1/3 Method](./codes/Simpson_1_by_3_Rule.c)
   - [Simpson 3/8 Method](./codes/Simpson_3_by_8_Rule.c)
-  - [Lagrange interpolation Method]](./codes/Lagrange_interpolation.c)
+  - [Lagrange interpolation Method](./codes/Lagrange_interpolation.c)
   - [Euler's Method](./codes/Euler_Method.c)
   - [Runge–Kutta methods(2nd order)](./codes/runge_kutta_method_2nd_order.c)
   - [Runge–Kutta methods(4th order)](./codes/runge_kutta_method_4th_order.c)
