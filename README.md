@@ -20,4 +20,4 @@
   - [Regression Line](./codes/Regression_Lines.c)
   - [Linear Curve Fitting](./codes/Straight_Curve_Fitting.c)
   - [Parabola Curve Fitting](./codes/Parabolic_Curve_Fitting.c)
-  - <img src="https://t.bkit.co/w_648b5b38c322d.gif" />
+<img src="https://t.bkit.co/w_648b5b38c322d.gif" />
